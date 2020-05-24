@@ -1,0 +1,3 @@
+﻿  俄罗斯方块.cpp
+c:\users\yzhim\source\repos\俄罗斯方块\俄罗斯方块\俄罗斯方块.cpp(605): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  俄罗斯方块.vcxproj -> C:\Users\yzhim\source\repos\俄罗斯方块\Debug\俄罗斯方块.exe
